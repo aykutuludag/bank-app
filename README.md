@@ -34,6 +34,6 @@ The main goals are:
 
 ## Prerequisites
 
-- Python 3.8 or higher  
+- Python 3.10.0 or higher  
 - PostgreSQL installed and running  
 - Virtual environment tool (recommended: `venv` or `virtualenv`)
