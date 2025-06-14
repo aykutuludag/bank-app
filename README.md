@@ -1,4 +1,13 @@
-## Available UI Endpoints
+## API Endpoints
+
+| URL                                  | Description                          |
+|------------------------------------|------------------------------------|
+| `http://localhost:8000/api/accounts/`      | List and manage bank accounts (JSON) |
+| `http://localhost:8000/api/transactions/`  | List and manage transactions (JSON)  |
+| `http://localhost:8000/api/users/`          | List users (JSON)                    |
+| `http://localhost:8000/api/groups/`         | List groups (JSON)                   |
+
+## UI Endpoints
 
 | URL                                   | Description                                |
 |-------------------------------------|--------------------------------------------|
